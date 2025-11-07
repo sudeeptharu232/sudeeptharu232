@@ -65,7 +65,7 @@
 
 - 💰 **Accounting Software** — Cross-platform accounting system with **Nepali calendar integration** using Laravel & Flutter.  
 - 📄 **Registration & Invoice Management System** — Automated real-time invoicing platform using **Laravel Echo** and **Vue.js**.
-
+<img height="150em" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZzOWFsM2lhbjVudW1jZG13bGN6dDZqenNjeXhvZHgwdmR1MnQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" alt="Sudeep Tharu Top Languages" />
 ---
 
 ## 🎓 Education
