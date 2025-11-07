@@ -96,7 +96,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeeptharu232&layout=compact&show_icons=true&theme=algolia" alt="Sudeep Tharu Top Languages" />
+  <img height="150em" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZzOWFsM2lhbjVudW1jZG13bGN6dDZqenNjeXhvZHgwdmR1MnQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" alt="Sudeep Tharu Top Languages" />
 </div>
 
 ---
