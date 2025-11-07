@@ -18,7 +18,7 @@
 
 <p align="center">
   <video width="420" height="240" autoplay loop muted playsinline>
-    <source src="grok-video-b5bc222d-c1c9-424c-bea3-4acf008db05b.mp4" type="video/mp4">
+    <source src="profile.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
