@@ -62,7 +62,7 @@
 ---
 
 ## 🚀 Featured Projects
-
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRpcnI5bWEybWU2OWhwZXg1Y3hjcnp5YjlvbnYxZnNlMGU0ZHdsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" align="right"/>
 - 💰 **Accounting Software** — Cross-platform accounting system with **Nepali calendar integration** using Laravel & Flutter.  
 - 📄 **Registration & Invoice Management System** — Automated real-time invoicing platform using **Laravel Echo** and **Vue.js**.
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZzOWFsM2lhbjVudW1jZG13bGN6dDZqenNjeXhvZHgwdmR1MnQzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" alt="Sudeep Tharu Top Languages" />
