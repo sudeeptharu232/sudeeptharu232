@@ -18,7 +18,7 @@
 
 <p align="center">
   <video width="420" height="240" autoplay loop muted playsinline>
-    <source src="profile.mp4" type="video/mp4">
+    <source src="https://github.com/sudeeptharu232/sudeeptharu232/raw/main/profile.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <video width="420" height="240" autoplay loop muted playsinline>
