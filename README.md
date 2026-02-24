@@ -55,11 +55,11 @@
 - Contributed to healthcare projects such as **Kidney Disease Policy Research** and **PJ Medical QOL EGFR** in collaboration with Japanese teams.  
 - Led a small team developing full-stack mobile applications with a user-centric approach.
 
-### 💻 **Full Stack Developer — Prabidhee Innovations Pvt. Ltd. (Nov 2022 – Dec 2024, Hetauda)**
+### 💻 **Full Stack Developer — Prabidhee Innovations Pvt. Ltd. (July 2022 – Dec 2024, Hetauda)**
 - Developed and maintained **accounting**, **registration**, and **advertisement management systems**.  
 - Mentored junior developers through reviews and hands-on guidance.
 
-### 🧠 **Backend Developer Intern — Prabidhee Innovations Pvt. Ltd. (Feb 2022 – May 2022)**
+### 🧠 **Backend Developer Intern — Prabidhee Innovations Pvt. Ltd. (Feb 2022 – Jun 2022)**
 - Assisted in developing **Laravel + Vue.js** web applications integrating APIs.  
 - Improved code quality through collaboration and peer learning.
 
